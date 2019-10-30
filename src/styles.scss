@@ -250,4 +250,17 @@ text-align: left;
     background-color: #1F2022;
     border: none;
   }
+
+  .recharts-curve {
+    stroke: #DC143C;
+    stroke-width: 5;
+  }
+
+  .recharts-text {
+    fill: #FFFAFA;
+  }
+
+  .recharts-cartesian-grid line {
+    stroke: #ADFF2F;
+  }
 }
